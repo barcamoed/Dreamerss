@@ -1,0 +1,332 @@
+body {
+     background: #333;
+ }
+
+#dropzone {
+    position: relative;
+    border: 5px solid #444;
+    border-radius: 20px;
+    color: white;
+    font: bold 24px/200px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+}
+
+#dropzone.hover {
+    border: 10px solid #FE5;
+
+    color: blue;
+}
+
+#dropzone.dropped {
+    background: #222;
+    border: 10px solid #444;
+}
+
+#dropzone div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#dropzone img {
+    border-radius: 10px;
+    vertical-align: middle;
+    max-width: 95%;
+    max-height: 95%;
+}
+
+#dropzone [type="file"] {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: #333;
+}
+
+#dropzone1 {
+    position: relative;
+    border: 5px solid #444;
+    border-radius: 20px;
+    color: white;
+    font: bold 24px/200px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+}
+
+#dropzone1.hover {
+    border: 10px solid #FE5;
+
+    color: blue;
+}
+
+#dropzone1.dropped {
+    background: #222;
+    border: 10px solid #444;
+}
+
+#dropzone1 div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#dropzone1 img {
+    border-radius: 10px;
+    vertical-align: middle;
+    max-width: 95%;
+    max-height: 95%;
+}
+
+#dropzone1 [type="file"] {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+body {
+    background: #333;
+}
+
+#dropzone2 {
+    position: relative;
+    border: 5px solid #444;
+    border-radius: 20px;
+    color: white;
+    font: bold 24px/200px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+}
+
+#dropzone2.hover {
+    border: 10px solid #FE5;
+
+    color: blue;
+}
+
+#dropzone2.dropped {
+    background: #222;
+    border: 10px solid #444;
+}
+
+#dropzone2 div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#dropzone2 img {
+    border-radius: 10px;
+    vertical-align: middle;
+    max-width: 95%;
+    max-height: 95%;
+}
+
+#dropzone2 [type="file"] {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+
+body {
+    background: #333;
+}
+
+#dropzone3 {
+    position: relative;
+    border: 5px solid #444;
+    border-radius: 20px;
+    color: white;
+    font: bold 24px/200px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+}
+
+#dropzone3.hover {
+    border: 10px solid #FE5;
+
+    color: blue;
+}
+
+#dropzone3.dropped {
+    background: #222;
+    border: 10px solid #444;
+}
+
+#dropzone3 div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#dropzone3 img {
+    border-radius: 10px;
+    vertical-align: middle;
+    max-width: 95%;
+    max-height: 95%;
+}
+
+#dropzone3 [type="file"] {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: #333;
+}
+
+#dropzone4 {
+    position: relative;
+    border: 5px solid #444;
+    border-radius: 20px;
+    color: white;
+    font: bold 24px/200px arial;
+    height: 200px;
+    margin: 30px auto;
+    text-align: center;
+    width: 200px;
+}
+
+#dropzone4.hover {
+    border: 10px solid #FE5;
+
+    color: blue;
+}
+
+#dropzone4.dropped {
+    background: #222;
+    border: 10px solid #444;
+}
+
+#dropzone4 div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#dropzone4 img {
+    border-radius: 10px;
+    vertical-align: middle;
+    max-width: 95%;
+    max-height: 95%;
+}
+
+#dropzone4 [type="file"] {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+

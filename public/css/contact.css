@@ -1,0 +1,293 @@
+body {
+    width: 100%;
+    height: 100%;
+
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
+#block{
+
+}
+
+
+
+#wcw{
+    margin-top:10%;
+}
+
+
+#collap{
+    border-bottom: 1px dashed gray;
+
+}
+#collap h2 a{
+color:black;
+    text-decoration: none;
+}
+#collap h2 a:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
+.dropdown{
+    border-radius:0px;
+    margin-right:0px;
+}
+#drop-down{
+    padding: 0px;
+    margin: 0px;
+}
+
+#drop-down li a{
+
+}
+#drop-down li a:hover{
+    background-color: #168CCC;
+    color: white;
+
+}
+#bg-img{
+    background-image: url('../images/back-car.jpg');
+    background-attachment: fixed;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+#nav{
+    margin:0px;
+    padding:0px;
+    color:#FFFFFF;
+    background-color:#1858A6;
+
+}
+#in-nav{
+
+    padding-left:4%;
+    padding-right:1%;
+}
+#rides{
+    border-left:1px solid #5D8AC1;
+
+}
+#lang{
+    border-left:1px solid #5D8AC1;
+}
+#prof{
+    border-left:1px solid #5D8AC1;
+}
+#alert{
+    margin:0px;
+    padding:5px;
+    width: 100%;
+    text-align:center;
+    background-color:#168CCC;
+    color: white;
+}
+#alert a{
+    color:white;
+
+}
+#lang a{
+    color:white;
+}
+#prof a{
+    color:white;
+}
+#lang a:hover{
+    background-color:#4787FF;
+}
+
+#prof a:hover{
+    background-color:#4787FF;
+}
+
+#lang .dropdown-menu{
+    background-color: white;
+    width:100%;
+}
+#prof .dropdown-menu{
+    width:100%;
+    background-color: white;
+
+}
+#lang .dropdown-menu li a{
+    color: black;
+}
+#prof .dropdown-menu li a{
+    color: black;
+}
+#lang .dropdown-menu li a:hover{
+    color: white;
+    background-color:#168CCC;
+
+}
+#prof .dropdown-menu li a:hover{
+    color: white;
+    background-color:#168CCC;
+}
+#rides a{
+    color: white;
+
+}
+#rides a:hover{
+    background-color:#4787FF;
+    color: white;
+}
+#f-links{
+    margin:0px;
+    padding-bottom:1%;
+    padding-top:1%;
+    padding-left:8%;
+    border-radius:0px;
+    font-size:16px;
+    background-color:#303030;
+
+}
+#d-links{
+    height:auto;
+    width:auto;
+    background-color:#333333;
+    color:white;
+    padding:22px;
+    margin-top:14px;
+}
+
+#d-links ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#d-links ul li a{
+    color:#FFFFFF;
+    text-decoration:none;
+    padding:6px;
+}
+#d-links ul li {
+    margin:5px;
+}
+
+
+#d-links ul li a:hover{
+    color:#FFFFFF;
+    text-decoration:underline;
+
+}
+#slct option{
+    padding: 10px;
+
+}
+#export{
+    margin-top:2%;
+
+}
+#export a{
+
+}
+#f-links ul li a{
+    color:#FFFFFF;
+}
+#f-links ul li a:hover{
+    color:#FFFFFF;
+}
+
+#con-detail{
+    margin-top:30px;
+}
+
+
+#footer{
+    background-color:#1858A6;
+    padding:10px;
+}
+#footer p{
+    color:#FFFFFF;
+}
+#s-icon{
+    color:#FFFFFF;
+    font-size:36px;
+}
+#fields input{
+    margin-top:7%;
+    border-radius:0px;
+    border-color: gray;
+
+}
+#fields textarea{
+    margin-top:7%;
+    border-radius:0px;
+}
+
+@media (max-width:768px){
+    #rides{
+        border-left:none;
+
+    }
+    #lang{
+        border-left:none;
+    }
+    #prof{
+        border-left:none;
+    }
+    #vanished{
+        display:none;
+    }
+    #dpn{
+        display: none;
+    }
+    #bg-img {
+
+        padding-top: 24%;
+    }
+    #span{
+
+        margin-left:33%;
+    }
+    #english{
+        border-radius:0%;
+        padding:0px;
+
+        margin-right:5%;
+    }
+    #english:hover{
+        background-color: #168CCC;
+        border: none;
+    }
+    #name {
+        background-color: #303030;
+        border-radius:0px;
+        padding-left:0px;
+        color: white;
+        text-decoration: none;
+    }
+
+    #name:hover{
+        background-color: #168CCC;
+        border: none;
+    }
+    .dropdown{
+        border-radius:0px;
+        margin-right: 0px;
+    }
+    #drop-down{
+        padding: 0px;
+        margin: 0px;
+    }
+    #form-mg{
+        margin-top:100px;
+
+    }
+    #footer-mg{
+        margin-top:5%;
+    }
+    #wcw{
+
+    }
+
+}
+
+
